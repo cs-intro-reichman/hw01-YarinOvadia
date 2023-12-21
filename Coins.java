@@ -5,7 +5,7 @@ public class Coins{
  int quarters = total/ 25;
  int remaining = total%25;
  
-  System.out.println("Use " +quarters+ " quarters and " +remaining+ " cents.");
+  System.out.println("Use " +quarters+ " quarters and " +remaining+ " cents");
        
         }
        }

@@ -11,6 +11,6 @@ public class Triangle
         boolean flag = (a + b > c) && (a + c > b) && (b + c > a);
 
        
-        System.out.println(a + ", " + b + ", " + c + " : " + flag);
+        System.out.println(a + ", " + b + ", " + c + ": " + flag);
     }
 }
